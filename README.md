@@ -1,4 +1,3 @@
-Вот подробный README.md файл для скрипта:
 
 ```markdown
 # Folder Archiver v2.0
