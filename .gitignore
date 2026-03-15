@@ -14,3 +14,15 @@ ENV/
 *.zip
 *.tar
 *.gz
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Package metadata
+*.egg-info/
+*.egg
+# Lock files (optional)
+requirements-lock.txt
