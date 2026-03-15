@@ -297,8 +297,8 @@ MIT License. Свободно используйте, модифицируйте
 ## 📞 Контакты
 
 По вопросам и предложениям:
-- Email: example@email.com
-- GitHub: [username]/folder-archiver
+- Email: arkoid@mail.ru
+- GitHub: IDLazarko/folder-archiver
 
 ---
 
