@@ -26,3 +26,10 @@ env/
 *.egg
 # Lock files (optional)
 requirements-lock.txt
+
+.spyproject/
+.idea/
+.vscode/
+__pycache__/
+*.py[cod]
+
